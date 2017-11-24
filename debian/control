@@ -1,0 +1,14 @@
+Source: xenta-artwork
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/xentaos/xenta-artwork
+Vcs-Browser: https://github.com/xentaos/xenta-artwork.git
+
+Package: xenta-artwork
+Architecture: all
+Depends: xenta-artwork-common, xenta-artwork-applications
+Description: Paket Base Xenta OS Artwork.
+ Sebuah Paket Artwork Penyesuian Semua Edisi Xenta OS.
