@@ -1,2 +1,2 @@
 # xenta-artwork
-[Paket] Sistem Paket Base Xenta OS Artwork.
+[Paket] Sistem Paket Base Xenta OS Artwork. ...
