@@ -1,11 +1,11 @@
 Source: xenta-artwork
 Section: admin
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Homepage: https://github.com/xentaos/xenta-artwork
-Vcs-Browser: https://github.com/xentaos/xenta-artwork.git
+Homepage: https://github.com/xentaoslinux/xenta-artwork
+Vcs-Browser: https://github.com/xentaoslinux/xenta-artwork.git
 
 Package: xenta-artwork
 Architecture: all
